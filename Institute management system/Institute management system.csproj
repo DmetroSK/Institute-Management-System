@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F2D3BE6-C140-4342-9D07-AC22FA129D73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Institute_management_system</RootNamespace>
+    <AssemblyName>Institute management system</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Hp\Desktop\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>RIT</ProductName>
+    <PublisherName>Code Warriors</PublisherName>
+    <SuiteName>METRO</SuiteName>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1414BEED2BD9F3F2CA567C1DE2016F1C94CC8112</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Institute management system_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.AppLocal, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.AnalysisServices.AppLocal.Core, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.AnalysisServices.AppLocal.Tabular, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="aboutus.Designer.cs">
+      <DependentUpon>aboutus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account Department.Designer.cs">
+      <DependentUpon>Account Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendense_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendense_insert.Designer.cs">
+      <DependentUpon>Attendense_insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course Details.Designer.cs">
+      <DependentUpon>Course Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examination Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examination Department.Designer.cs">
+      <DependentUpon>Examination Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acc_examDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acc_examDates.Designer.cs">
+      <DependentUpon>Acc_examDates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acc_Results.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acc_Results.Designer.cs">
+      <DependentUpon>Acc_Results.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendents.Designer.cs">
+      <DependentUpon>Attendents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contactus1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="contactus1.Designer.cs">
+      <DependentUpon>contactus1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="ExamDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExamDate.Designer.cs">
+      <DependentUpon>ExamDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExamResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExamResult.Designer.cs">
+      <DependentUpon>ExamResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emailsend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emailsend.Designer.cs">
+      <DependentUpon>Emailsend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="information1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="information1.Designer.cs">
+      <DependentUpon>information1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LecShedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecShedule.Designer.cs">
+      <DependentUpon>LecShedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecturer Shedule insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecturer Shedule insert.Designer.cs">
+      <DependentUpon>Lecturer Shedule insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecturer.Designer.cs">
+      <DependentUpon>Lecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LecturerShedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecturerShedule.Designer.cs">
+      <DependentUpon>LecturerShedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login insert.Designer.cs">
+      <DependentUpon>Login insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Logo.Designer.cs">
+      <DependentUpon>Logo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarksDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarksDetails.Designer.cs">
+      <DependentUpon>MarksDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marks_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marks_Update.Designer.cs">
+      <DependentUpon>Marks_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS.Designer.cs">
+      <DependentUpon>MIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Screen.Designer.cs">
+      <DependentUpon>Splash Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff Registration.Designer.cs">
+      <DependentUpon>Staff Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Details.Designer.cs">
+      <DependentUpon>Student Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Shedule Insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Shedule Insert.Designer.cs">
+      <DependentUpon>Student Shedule Insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="aboutus.resx">
+      <DependentUpon>aboutus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account Department.resx">
+      <DependentUpon>Account Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendense_insert.resx">
+      <DependentUpon>Attendense_insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course Details.resx">
+      <DependentUpon>Course Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examination Department.resx">
+      <DependentUpon>Examination Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acc_examDates.resx">
+      <DependentUpon>Acc_examDates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acc_Results.resx">
+      <DependentUpon>Acc_Results.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendents.resx">
+      <DependentUpon>Attendents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contactus1.resx">
+      <DependentUpon>contactus1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamDate.resx">
+      <DependentUpon>ExamDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamResult.resx">
+      <DependentUpon>ExamResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emailsend.resx">
+      <DependentUpon>Emailsend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="information1.resx">
+      <DependentUpon>information1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecShedule.resx">
+      <DependentUpon>LecShedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecturer Shedule insert.resx">
+      <DependentUpon>Lecturer Shedule insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecturer.resx">
+      <DependentUpon>Lecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecturerShedule.resx">
+      <DependentUpon>LecturerShedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login insert.resx">
+      <DependentUpon>Login insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logo.resx">
+      <DependentUpon>Logo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarksDetails.resx">
+      <DependentUpon>MarksDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marks_Update.resx">
+      <DependentUpon>Marks_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS.resx">
+      <DependentUpon>MIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Screen.resx">
+      <DependentUpon>Splash Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff Registration.resx">
+      <DependentUpon>Staff Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Details.resx">
+      <DependentUpon>Student Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Shedule Insert.resx">
+      <DependentUpon>Student Shedule Insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Institute management system_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CODE WARRIORS 3.tif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

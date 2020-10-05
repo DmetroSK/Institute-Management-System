@@ -1,0 +1,77 @@
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.exe.config
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.exe
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.pdb
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.Design.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.csprojResolveAssemblyReference.cache
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Properties.Resources.resources
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Report.resources
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.csproj.GenerateResource.Cache
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.exe
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.pdb
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Student_Attendence_Summary.resources
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Examination_Result_Summary.resources
+C:\Users\Randula\Desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Payment_Summary.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\Institute management system report.exe.config
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute management system report.exe
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute management system report.pdb
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute management system report.csprojResolveAssemblyReference.cache
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute_management_system_report.Examination_Result_Summary.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute_management_system_report.Payment_Summary.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute_management_system_report.Properties.Resources.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute_management_system_report.Report.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute_management_system_report.Student_Attendence_Summary.resources
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\Institute management system report.csproj.GenerateResource.Cache
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\Institute management system report.exe
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\Institute management system report.pdb
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\MetroFramework.Design.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\MetroFramework.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\RdlCompile.cache
+C:\Users\Randula\Desktop\New folder (3)\Institute management system report2\Institute management system report\obj\Debug\RdlCompile.compiled
+K:\Institute management system report\Institute management system report\bin\Debug\Institute management system report.exe.config
+K:\Institute management system report\Institute management system report\obj\Debug\Institute management system report.exe
+K:\Institute management system report\Institute management system report\obj\Debug\Institute management system report.pdb
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.exe.config
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.exe
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.pdb
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.exe
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\Institute management system report.pdb
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.Design.dll
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.dll
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\MetroFramework.Fonts.dll
+D:\backup\desktop\Institute management system report\Institute management system report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.csprojResolveAssemblyReference.cache
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Examination_Result_Summary.resources
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Payment_Summary.resources
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Properties.Resources.resources
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Report.resources
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute_management_system_report.Student_Attendence_Summary.resources
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\Institute management system report.csproj.GenerateResource.Cache
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\RdlCompile.cache
+D:\backup\desktop\Institute management system report\Institute management system report\obj\Debug\RdlCompile.compiled
