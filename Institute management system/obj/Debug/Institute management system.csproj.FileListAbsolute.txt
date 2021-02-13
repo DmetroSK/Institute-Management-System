@@ -112,3 +112,42 @@ F:\C# project\Institute management system\Institute management system\bin\Debug\
 F:\C# project\Institute management system\Institute management system\obj\Debug\Institute management system.csprojAssemblyReference.cache
 F:\C# project\Institute management system\Institute management system\obj\Debug\Institute management system.csproj.CoreCompileInputs.cache
 F:\C# project\Institute management system\Institute management system\obj\Debug\Institute management system.csproj.CopyComplete
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute management system.csprojAssemblyReference.cache
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.aboutus.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Account_Department.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Attendense_insert.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Course_Details.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Examination_Department.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Acc_examDates.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Acc_Results.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Attendents.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.contactus1.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.ExamDate.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.ExamResult.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Emailsend.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.ForgotPassword.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.information1.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.LectureShedule.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Lecturer_Shedule_insert.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Lecturer.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.LecturerShedule.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Login_insert.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Login.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Logo.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Main.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.MarksDetails.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Marks_Update.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.MIS.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Properties.Resources.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Register.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Registration.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Sign_Up.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Splash_Screen.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Staff_Registration.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Student_Details.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Student_Shedule_Insert.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute_management_system.Student.resources
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute management system.csproj.GenerateResource.cache
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute management system.csproj.CoreCompileInputs.cache
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute management system.exe
+E:\Dev\Institute-Management-System\Institute management system\obj\Debug\Institute management system.pdb
